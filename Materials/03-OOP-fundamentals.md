@@ -501,11 +501,6 @@ Encapsulation will strengthen this later.
 
 ---
 
-
-Absolutely — here is a **matching, expanded, literary-style introduction to _Methods_**, written to fit seamlessly after your Objects section and before encapsulation-related topics. This keeps the narrative flow and teaching style consistent with your material.
-
----
-
 # ⚙️ Methods: Giving Objects the Power to Act
 
 If objects are the _actors_ in your program, then **methods** are their _actions_.
